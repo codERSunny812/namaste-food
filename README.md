@@ -2,7 +2,7 @@
 
 Namaste Food is an online food ordering website built with ReactJS and other cutting-edge technologies. It offers a range of features to enhance the user experience, including real-time email functionality, a chatbot feature, online/offline status indicators, a login system, and more. 
 
-[Live Website](https://namaste-food-app.netlify.app/)
+[Live Website](https://namaste-food-app.netlify.app/)    |     [Live Website](https://namastefood.vercel.app/)
 
 ## Features
 - **Shimmer UI:** Enjoy an interactive and visually appealing UI with shimmer effects that provide a modern and engaging user experience.
