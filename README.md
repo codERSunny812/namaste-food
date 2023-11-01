@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 We welcome contributions to improve and expand the project. If you have ideas or enhancements, please submit a pull request or open an issue.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 - Special thanks to Swiggy for providing live API data.
