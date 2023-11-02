@@ -49,26 +49,28 @@ const Contact = () => {
   }, [formSubmitted]);
 
   return (
-    <div className="contact-container">
-      <div className="contact-left">
-        <img id="contact-left" src={contact} alt="" />
+    <>
+      <div className="contact-container">
+        <div className="contact-left">
+          <img id="contact-left" src={contact} alt="" />
+        </div>
+        <div className="contact-right">
+          <h1>Contact us</h1>
+          <form onSubmit={handleSubmit}>
+            <input type="text" name="name" placeholder="Name" required />
+            <input type="email" name="email" placeholder="Email" required />
+            <textarea
+              name="message"
+              placeholder="Type your Message here..."
+              required
+            ></textarea>
+            <button type="submit">Submit</button>
+            {message && <span className="success-message">{message}</span>}
+            {error && <span className="error-message">{error}</span>}
+          </form>
+        </div>
       </div>
-      <div className="contact-right">
-        <h1>Contact us</h1>
-        <form onSubmit={handleSubmit}>
-          <input type="text" name="name" placeholder="Name" required />
-          <input type="email" name="email" placeholder="Email" required />
-          <textarea
-            name="message"
-            placeholder="Type your Message here..."
-            required
-          ></textarea>
-          <button type="submit">Submit</button>
-          {message && <span className="success-message">{message}</span>}
-          {error && <span className="error-message">{error}</span>}
-        </form>
-      </div>
-    </div>
+    </>
   );
 };
 

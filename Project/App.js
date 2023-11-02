@@ -6,7 +6,6 @@ import Footer from "./Components/Footer";
 import About from "./Components/About";
 import Error from "./Components/Error";
 import Contact from "./Components/Contact";
-
 import RestaurantMenu from "./Components/RestaurantMenu";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 import Login from "./Components/Login";
