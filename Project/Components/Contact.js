@@ -55,7 +55,7 @@ const Contact = () => {
           <img id="contact-left" src={contact} alt="" />
         </div>
         <div className="contact-right">
-          <h1>Contact us</h1>
+          <h1>Contact Us</h1>
           <form onSubmit={handleSubmit}>
             <input type="text" name="name" placeholder="Name" required />
             <input type="email" name="email" placeholder="Email" required />
