@@ -5,6 +5,8 @@ Namaste Food is an online food ordering website built with ReactJS and other cut
 [Live Website](https://namaste-food-app.netlify.app/)    |     [Live Website](https://namastefood.vercel.app/)
 
 ## Features
+- **Chatbot:** Implemented a Chatbot feature using Botpress to enhance user interaction and provide assistance within the
+application
 - **Shimmer UI:** Enjoy an interactive and visually appealing UI with shimmer effects that provide a modern and engaging user experience.
 
 - **Swiggy's Live API Data:** Access live data from Swiggy's API to keep your users updated with the latest restaurant information, menus, and more.
