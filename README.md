@@ -4,6 +4,9 @@ Namaste Food is an online food ordering website built with ReactJS and other cut
 
 [Live Website](https://namaste-food-app.netlify.app/)    |     [Live Website](https://namastefood.vercel.app/)
 
+![Project1](https://github.com/g3vind/namaste-food/assets/70854788/1bf91fc3-6ac4-41c0-b598-6407a5754bb5)
+
+
 ## Features
 - **Chatbot:** Implemented a Chatbot feature using Botpress to enhance user interaction and provide assistance within the
 application
